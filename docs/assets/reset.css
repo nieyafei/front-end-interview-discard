@@ -1,0 +1,9 @@
+.gt-container .gt-btn{
+    background-color: #42b983;
+}
+.gt-container .gt-header-controls-tip,.gt-container a:hover{
+    color: #42b983;
+}
+.gt-container .gt-svg svg{
+    fill: #42b983;
+}
