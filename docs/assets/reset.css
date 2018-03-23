@@ -49,7 +49,7 @@
     content: "\e673";
     font-size: 32px;
 }
-
+/* star */
 .iconS::before{
     display: inline-block;
     content: "\e70a";
