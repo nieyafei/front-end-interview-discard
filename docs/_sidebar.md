@@ -1,7 +1,7 @@
 * HTTP
   * [HTTP状态码及其含义](basic.md)
   * [HTTP的请求方法](http-request.md)
-  * [get和post区别？](http-get-post.md)
+  * [<span></span>GET和POST区别？](http-get-post.md)
 * 算法
   * [<span></span>常见排序算法的时间复杂度,空间复杂度](algorithm-1.md)
 

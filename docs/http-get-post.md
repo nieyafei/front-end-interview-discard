@@ -1,4 +1,4 @@
-# get和post区别？
+# GET和POST区别？
 
 - GET - 从指定的资源请求数据。
 
