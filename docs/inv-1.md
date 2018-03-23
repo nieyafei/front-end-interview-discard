@@ -1,4 +1,4 @@
-# 前端需要注意哪些SEO?<i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>
+# 前端需要注意哪些SEO? <i class='iconS'></i><i class='iconS'></i><i class='iconS'></i>
 
 > 由英文Search Engine Optimization缩写而来，中文意思是“搜索引擎的优化”
 
