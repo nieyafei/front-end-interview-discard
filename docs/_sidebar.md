@@ -19,6 +19,11 @@
   * [在生命周期中的哪一步你应该发起 AJAX 请求？](react/re-8.md)
   * [shouldComponentUpdate 的作用是啥以及为何它这么重要？](react/re-9.md)
   * [如何告诉 React 它应该编译生产环境版本？](react/re-10.md)
+  * [为什么我们需要使用 React 提供的 Children API 而不是 JavaScript 的 map？](react/re-11.md)
+  * [概述下 React 中的事件处理逻辑](react/re-12.md)
+  * [createElement 与 cloneElement 的区别是什么？](react/re-13.md)
+  * [传入 setState 函数的第二个参数的作用是什么？](react/re-14.md)
+  * [此代码块有错误吗？](react/re-15.md)    
 
 * Vue
 
