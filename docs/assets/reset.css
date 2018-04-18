@@ -58,3 +58,9 @@
 .sidebar ul li a .iconS::before{
     font-size: 14px;
 }
+
+
+.full-page.vuep{flex-direction: column;height: inherit;}
+.full-page .vuep-editor,.full-page  .vuep-preview,.full-page  .vuep-error{width: 100%;}
+.vuep-preview{background-color: #fff;}
+.vuep-preview, .vuep-error{padding: 0;}
