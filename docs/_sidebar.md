@@ -30,6 +30,7 @@
 
 * Vue
   * [你能写一个 Vue 的双向数据绑定吗？](vue/v-1.md)
+  * [vue 如何解析模板？](vue/temp.md)
 
 * Node
   * [什么是错误优先的回调函数？](node/n-1.md)
