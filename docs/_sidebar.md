@@ -42,3 +42,4 @@
 
 * 综合
   * [<span></span>前端需要注意哪些SEO?](inv-1.md)  
+  * [hybrid 和 h5 有何区别？](compre/hybrid-h5.md)
