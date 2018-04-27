@@ -5,6 +5,8 @@
 
 前端面试interview的综合题目收集，持续更新，勿浅尝辄止
 
+- [在线访问](http://codehtml.cn/front-end-interview)
+
 ### clone或者Fork之后clone到本地
 
 ### 安装环境
