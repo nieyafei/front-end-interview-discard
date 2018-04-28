@@ -39,6 +39,7 @@
 
 * 算法
   * [<span></span>常见排序算法的时间复杂度,空间复杂度](algorithm-1.md)
+  * [素数: 你将如何验证一个素数？](algorithm/alg-2.md)
 
 * 综合
   * [<span></span>前端需要注意哪些SEO?](inv-1.md)  
