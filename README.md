@@ -63,3 +63,4 @@
 * 综合
   * [<span></span>前端需要注意哪些SEO?](./docs/inv-1.md)  
   * [hybrid 和 h5 有何区别？](./docs/compre/hybrid-h5.md)
+  * [介绍下webpack热更新原理，是如何做到在不刷新浏览器的前提下更新页面?](./docs/compre/webpack-hot.md)
