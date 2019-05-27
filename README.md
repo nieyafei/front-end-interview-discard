@@ -33,6 +33,7 @@
   * [http的状态码中，499是什么？如何出现499，如何排查跟解决?](./docs/http/http-8.md)
   
 * React
+  * [setState更新state何时同步何时异步？](./docs/react/re-16.md)
   * [调用 setState 之后发生了什么？](./docs/react/re-1.md)
   * [React 中 Element 与 Component 的区别是？](./docs/react/re-2.md)
   * [什么情况下你会优先选择使用 Class Component 而不是 Functional Component？](./docs/react/re-3.md)
