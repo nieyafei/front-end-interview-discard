@@ -47,6 +47,7 @@
   * [「移动零」，给定一个数组 nums，编写一个函数将所有 0 移动到数组的末尾，同时保持非零元素的相对顺序。](algorithm/alg-5.md)
 
 * 综合
+  * [介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块？](compre/com-1.md)
   * [<span></span>前端需要注意哪些SEO?](inv-1.md)  
   * [hybrid 和 h5 有何区别？](compre/hybrid-h5.md)
   * [介绍下webpack热更新原理，是如何做到在不刷新浏览器的前提下更新页面?](compre/webpack-hot.md)
