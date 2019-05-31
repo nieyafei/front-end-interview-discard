@@ -53,6 +53,7 @@
 * Vue
   * [你能写一个 Vue 的双向数据绑定吗？](./docs/vue/v-1.md)
   * [vue 如何解析模板？](./docs/vue/temp.md)
+  * [写React/Vue项目时为什么要在组件中写key，其作用是什么?](./docs/vue/v-2.md)
 
 * Node
   * [什么是错误优先的回调函数？](./docs/node/n-1.md)

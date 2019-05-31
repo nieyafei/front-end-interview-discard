@@ -34,6 +34,7 @@
 * Vue
   * [你能写一个 Vue 的双向数据绑定吗？](vue/v-1.md)
   * [vue 如何解析模板？](vue/temp.md)
+  * [写React/Vue项目时为什么要在组件中写key，其作用是什么?](vue/v-2.md)
 
 * Node
   * [什么是错误优先的回调函数？](node/n-1.md)
@@ -56,3 +57,4 @@
   * [<span></span>前端需要注意哪些SEO?](inv-1.md)  
   * [hybrid 和 h5 有何区别？](compre/hybrid-h5.md)
   * [介绍下webpack热更新原理，是如何做到在不刷新浏览器的前提下更新页面?](compre/webpack-hot.md)
+  * [讲一下png8 png16 png32的区别，并简单讲讲png的压缩原理](compre/com-7.md)
