@@ -14,6 +14,7 @@
   * [http的状态码中，499是什么？如何出现499，如何排查跟解决?](http/http-8.md)
   
 * React
+  * [<span></span>constructor(){ this.target = this.func.bind(this); },JSX里onChange={this.target}的写法，为什么要比非bind的func = () => {}的写法效率高 请解释其中的原理](react/re-17.md)
   * [setState更新state何时同步何时异步？](react/re-16.md)
   * [调用 setState 之后发生了什么？](react/re-1.md)
   * [React 中 Element 与 Component 的区别是？](react/re-2.md)
