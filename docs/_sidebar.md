@@ -12,6 +12,7 @@
   * [描述RARP(Reverse Address Resolution Protocol)协议](http/http-6.md)
   * [从输入URL到页面加载发生了什么](http/http-7.md)
   * [http的状态码中，499是什么？如何出现499，如何排查跟解决?](http/http-8.md)
+  * [设计一个策略和方法，实现在https的前端项目里进行http请求](http/http-9.md)
   
 * React
   * [<span></span>constructor(){ this.target = this.func.bind(this); },JSX里onChange={this.target}的写法，为什么要比非bind的func = () => {}的写法效率高 请解释其中的原理](react/re-17.md)
