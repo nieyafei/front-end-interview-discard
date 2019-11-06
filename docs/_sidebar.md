@@ -38,7 +38,8 @@
   * [概述下 React 中的事件处理逻辑](react/re-12.md)
   * [createElement 与 cloneElement 的区别是什么？](react/re-13.md)
   * [传入 setState 函数的第二个参数的作用是什么？](react/re-14.md)
-  * [此代码块有错误吗？](react/re-15.md)    
+  * [此代码块有错误吗？](react/re-15.md)
+  * [如何避免在React重新绑定实例？](react/re-20.md)
 
 * Vue
   * [你能写一个 Vue 的双向数据绑定吗？](vue/v-1.md)
