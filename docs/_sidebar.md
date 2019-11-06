@@ -20,6 +20,8 @@
   * [浏览器的主要组成部分是什么？](browser/003.md)
 
 * React
+  * [什么是虚拟DOM？](react/re-18.md)
+  * [类组件和函数组件之间的区别是啥？](react/re-19.md)
   * [<span></span>constructor(){ this.target = this.func.bind(this); },JSX里onChange={this.target}的写法，为什么要比非bind的func = () => {}的写法效率高 请解释其中的原理](react/re-17.md)
   * [setState更新state何时同步何时异步？](react/re-16.md)
   * [调用 setState 之后发生了什么？](react/re-1.md)
