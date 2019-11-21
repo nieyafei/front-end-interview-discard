@@ -35,12 +35,16 @@
   * [从输入URL到页面加载发生了什么](./docs/http/http-7.md)
   * [http的状态码中，499是什么？如何出现499，如何排查跟解决?](./docs/http/http-8.md)
   * [设计一个策略和方法，实现在https的前端项目里进行http请求](./docs/http/http-9.md)
+  * [TCP和UDP的区别](./docs/http/http-10.md)
+  * [fetch发送2次请求的原因](./docs/http/http-11.md)
 
 #### 浏览器有关
 
   * [常见的浏览器内核有哪些?](./docs/browser/001.md)
   * [什么是浏览器同源策略？](./docs/browser/002.md)
   * [浏览器的主要组成部分是什么？](./docs/browser/003.md)
+  * [怎么预防文件上传漏洞？](./docs/browser/004.md)
+  * [window.opener安全问题](./docs/browser/005.md)
 
 #### React
 
