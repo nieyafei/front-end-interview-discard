@@ -5,6 +5,8 @@
 
 前端面试interview的综合题目收集，持续更新，勿浅尝辄止
 
+> 此项目此后不会进行更新，已废弃，数据已合并到http://codehtml.cn/front-end-interview
+
 - [在线访问](http://codehtml.cn/front-end-interview)
 
 ### clone或者Fork之后clone到本地
